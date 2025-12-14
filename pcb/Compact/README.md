@@ -14,3 +14,8 @@ For those following the ACSI2STM issue with the uncalibrated crystal, I previous
 - External LED connector - Allows for the addition of an external activity LED. It's perfect for people who want to use the ACSI2STM in a case without a built-in LED. The connector is a standard 2-pin header located below the currrent activity LED. The LED can be connected directly to it, the default resistor is 220Omh and is R12 in the board (included). If the value is not suitable for your LED, you can remove the resistor and use your own  in the through hole CUSTOM_RESISTOR (not included) instead just above R12. The LED will be powered by the 3V3 line. 
 
 The device is 100% compatible with the existing firmware. It also fits perfectly in the new internal riser boards allow direct installation inside Mega ST/STE, eliminating the need for external cables.
+
+REV 2.2 BY SIDECARTRIGE
+=======================
+
+- DB-19 real connector 
